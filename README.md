@@ -55,23 +55,22 @@
 
 ## Hardware List
 
-<!-- ESP32 CYD -->
-<p><strong>ESP32 CYD (Cheap Yellow Display)</strong></p>
-<a href="https://s.click.aliexpress.com/e/_oBfo3DO" target="_blank">
-  <img src="https://raw.githubusercontent.com/pangcrd/cyd-lvgl-esp12f/main/images/esp32cyd.png" 
-       alt="esp32cyd" 
-       width="250"
-       style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
-</a>
+<p align="center">
+  <a href="https://s.click.aliexpress.com/e/_oBfo3DO" target="_blank">
+    <img src="https://raw.githubusercontent.com/pangcrd/cyd-lvgl-esp12f/main/images/esp32cyd.png"
+         alt="ESP32 CYD"
+         width="250"
+         style="border: 1px solid #ccc; border-radius: 8px; padding: 4px; margin-right: 20px;" />
+  </a>
 
-<!-- ESP-12F -->
-<p><strong>ESP-12F Module with relay</strong></p>
-<a href="https://s.click.aliexpress.com/e/_oC5nlQY" target="_blank">
-  <img src="https://raw.githubusercontent.com/pangcrd/cyd-lvgl-esp12f/main/images/relayesp12.png" 
-       alt="esp12f" 
-       width="250"
-       style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
-</a>
+  <a href="https://s.click.aliexpress.com/e/_oC5nlQY" target="_blank">
+    <img src="https://raw.githubusercontent.com/pangcrd/cyd-lvgl-esp12f/main/images/relayesp12.png"
+         alt="ESP-12F Relay"
+         width="250"
+         style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;" />
+  </a>
+</p>
+
 
 ---  
 
