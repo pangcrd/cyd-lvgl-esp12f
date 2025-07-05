@@ -34,10 +34,10 @@ A sleek and responsive switch control panel built using **ESP32** and **LVGL**, 
 
 <table>
   <tr>
-    <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/3.png" alt="Image 1" width="200"/></td>
-    <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/4.png" alt="Image 2" width="200"/></td> 
-    <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/5.png" alt="Image 2" width="200"/></td> 
-    <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/5.png" alt="Image 2" width="200"/></td> 
+    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic0.png" alt="Image 1" width="400"/></td>
+    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic1.png" alt="Image 2" width="400"/></td> 
+    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic2.png" alt="Image 2" width="400"/></td> 
+    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic3.png" alt="Image 2" width="400"/></td> 
   </tr>
 </table> 
 
@@ -45,11 +45,13 @@ A sleek and responsive switch control panel built using **ESP32** and **LVGL**, 
 
 ## Hardware List
 
-**You can buy the tested compatible parts by click images below**
+**You can buy the tested compatible parts by click images below**  
+
 **ESP32 CYD (Cheap Yellow Display)**
-[![cyd](https://i.sstatic.net/Vp2cE.png)](https://s.click.aliexpress.com/e/_oBfo3DO)
+[![cyd](https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/esp32cyd.png)](https://s.click.aliexpress.com/e/_oBfo3DO)  
+
 **ESP-12F Module with relay**
-[![esp12f](https://i.sstatic.net/Vp2cE.png)](https://s.click.aliexpress.com/e/_oC5nlQY)
+[![esp12f](https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/relayesp12.png)](https://s.click.aliexpress.com/e/_oC5nlQY)
 
 ---  
 
