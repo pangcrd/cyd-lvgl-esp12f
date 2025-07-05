@@ -32,14 +32,24 @@ A sleek and responsive switch control panel built using **ESP32** and **LVGL**, 
 
 ## Screenshots
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic0.png" alt="Image 1" width="400"/></td>
-    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic1.png" alt="Image 2" width="400"/></td> 
-    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic2.png" alt="Image 2" width="400"/></td> 
-    <td><img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic3.png" alt="Image 2" width="400"/></td> 
+    <td style="padding:10px">
+      <img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic0.png" alt="Image 1" width="300"/>
+    </td>
+    <td style="padding:10px">
+      <img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic1.png" alt="Image 2" width="300"/>
+    </td>
   </tr>
-</table> 
+  <tr>
+    <td style="padding:10px">
+      <img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic2.png" alt="Image 3" width="300"/>
+    </td>
+    <td style="padding:10px">
+      <img src="https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/cyd-pic3.png" alt="Image 4" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,5 +68,6 @@ A sleek and responsive switch control panel built using **ESP32** and **LVGL**, 
 
 ## Demo Video
 
-****
+https://github.com/user-attachments/assets/dc04637b-13f2-4d57-9798-e326a3d3a328
+
 ---
