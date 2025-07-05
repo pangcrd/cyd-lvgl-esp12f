@@ -1,7 +1,7 @@
 
 # Description
 
-A sleek and responsive switch control panel built using **ESP32** and **LVGL**, designed in **SquareLine Studio**, and wirelessly controls a **relay board (ESP-12F)** via **ESP-NOW**.
+  - A sleek and responsive switch control panel built using **ESP32** and **LVGL**, designed in **SquareLine Studio**, and wirelessly controls a **relay board (ESP-12F)** via **ESP-NOW**.
 
 ---
 
@@ -55,12 +55,12 @@ A sleek and responsive switch control panel built using **ESP32** and **LVGL**, 
 
 ## Hardware List
 
-**You can buy the tested compatible parts by click images below**  
+- **You can buy the tested compatible parts by click images below**  
 
-**ESP32 CYD (Cheap Yellow Display)**
+- **ESP32 CYD (Cheap Yellow Display)**
 [![cyd](https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/esp32cyd.png)](https://s.click.aliexpress.com/e/_oBfo3DO)  
 
-**ESP-12F Module with relay**  
+- **ESP-12F Module with relay**  
 
 [![esp12f](https://github.com/pangcrd/cyd-lvgl-esp12f/blob/main/images/relayesp12.png)](https://s.click.aliexpress.com/e/_oC5nlQY)
 
