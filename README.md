@@ -87,6 +87,6 @@ https://github.com/user-attachments/assets/dc04637b-13f2-4d57-9798-e326a3d3a328
 
 **Watch full tutorial on YouTube**  
 
-[![Watch the video](https://raw.githubusercontent.com/pangcrd/cyd-lvgl-esp12f/main/images/yt-cover.png)](https://youtu.be/O0kb52wJk0Q)
+[![Watch the video](https://raw.githubusercontent.com/pangcrd/cyd-lvgl-esp12f/main/images/yt-cover.png)](https://youtu.be/DaC8soiB9zQ)
 
 ---
