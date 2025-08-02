@@ -24,6 +24,7 @@
 ```sh
 ├── src-vi # Vietnamese MOD sources
 ├── src-eng # English sources
+├── esp12f-src # Esp12f sources
 ├── get-mac # Script to retrieve MAC address board ESP
 ├── images # Screenshots and demo assets 
 ```
