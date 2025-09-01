@@ -244,7 +244,7 @@ void setup (){
     // delay(1000);
     xTaskCreatePinnedToCore(Espnow_init, "Create espnow", 8192, NULL, 6, NULL, 0);
     xTaskCreatePinnedToCore(sendDataTask, "Send Data", 5120, NULL, 5, NULL, 0);
-    //Serial.println( "Setup done" );
+    Serial.println( "Setup done" );
 }
 
 void loop ()
